@@ -1,0 +1,60 @@
+.topbox{
+    height: 673px;
+  
+    background: transparent url('https://res.cloudinary.com/ddh4kd4ab/image/upload/v1614139508/Group_25_bqimup.png') 0% 0% no-repeat padding-box;
+}
+
+.topbox-intro, .topbox-para, .topbox-button {
+    width: 60%;
+    margin-left: 3em;
+    padding: 1em;
+    color:#FBFBFB;
+  
+}
+.topbox-intro h3{
+    margin-top: 3em;
+    font-size: 40px;
+    font-family: 'Mulish', sans-serif;
+    font-weight: bold;
+}
+
+.topbox-para p{
+    font-family: 'Mulish', sans-serif;
+    font-size: 18px;
+    width: 60%;
+    text-align: left;
+}
+
+.topbox-button button{
+    padding:.4em 4em;
+    outline: none;
+    
+    border-radius: 3px;
+    color:#FBFBFB ;
+}
+
+.topbox-register{
+    background-color: #FB9D32;
+    border: none;
+    
+}
+.topbox-login{
+    border: 1px solid #FB9D32;
+    background: transparent;
+    margin-left: 1em;
+}
+
+.footer{
+    background: #D5D8DB 0% 0% no-repeat ;
+    text-align: center;
+    padding: 2em;
+}
+
+.footer p{
+    font-size: 12px;
+}
+.footer p a{
+    text-decoration: none;
+    margin: 0 1em;
+    color: #000204;
+}
